@@ -1,0 +1,45 @@
+/* styles.css */
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+    background-color: rgb(216, 158, 255, 0.5);
+}
+
+h1, h2, h3 {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    color: rgb(245, 6, 105);
+    background-color: rgb(247, 200, 143);
+    border: 2px solid rgb(0, 0, 0);
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+.description {
+    font-size: medium;
+}
+
+ol, ul, p {
+    background-color: bisque;
+    border: 1px solid rgb(131, 67, 248);
+}
+
+p em {
+    color: rgb(184, 9, 9);
+}
+
+.img-text {
+    color: rgb(131, 67, 248);
+}
+
+footer {
+    text-align: center;
+    font-weight: bolder;
+}
+
+.note {
+    background-color: rgb(255, 255, 255);
+    border: 6px solid rgb(255, 255, 255);
+}
